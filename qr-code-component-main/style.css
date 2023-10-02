@@ -9,8 +9,8 @@
 }
 
 .card{
-    height: 75vh;
-    width: 25vw;
+    height: 65vh;
+    width: 20vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
